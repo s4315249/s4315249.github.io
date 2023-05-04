@@ -6,12 +6,12 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Jason + fastai + blog = awesome
-description: Jason's fastai blog
+title: The best fastai blog in the world
+description: Join me on my journey to becoming an AI master with fastai!
 github_username: s4315249
 
 # Email and twitter are optional:
-email:
+email: jae.lee2@uqconnect.edu.au
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
