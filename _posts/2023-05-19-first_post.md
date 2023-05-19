@@ -7,4 +7,4 @@ There are several variants of ResNet - ResNet18, ResNet34, ResNet50, etc. The nu
 ## Implementation on fastai
 In fastai, ResNet18 is implemented by passing it as an input parameter into the [vision_learner()](https://docs.fast.ai/vision.learner.html) method. See below screenshot of an example implementation:
 
-![Image of screenshot](images/image.png)
+![Image of screenshot](/images/image.png)
