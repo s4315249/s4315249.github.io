@@ -1,0 +1,28 @@
+# Confusion Matrix and Related Metrics
+
+## What is a Confusion Matrix?
+
+An intuitive analytical tool that can provide useful insight into our trained model is the Confusion matrix.
+
+<table>
+      <tr>
+          <th>Column 1</th>
+          <th>Column 2</th>
+          <th>Column 3</th>
+      </tr>
+      <tr>
+          <td>Row 1, Cell 1</td>
+          <td>Row 1, Cell 2</td>
+          <td>Row 1, Cell 3</td>
+      </tr>
+      <tr>
+          <td></td>
+          <td>Row 2, Cell 2</td>
+          <td>Row 2, Cell 3</td>
+      </tr>
+</table>
+
+## Some Useful Relevant Metrics
+
+## Resources
+1. Bhandari A., 2023, Understanding & Interpreting Confusion Matrices for Machine Learning, https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/
