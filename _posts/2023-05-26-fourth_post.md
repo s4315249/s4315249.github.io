@@ -44,6 +44,13 @@ The diagonal from top left to bottom right represents TP for each class while th
 
 FP and FN are also known as Type I and Type II error respectively, and the lower their values, the better the model is at predicting the correct classification.
 
+In fastai, it is simply implemented by passing the model as an input parameter into `from_learner()` function within `ClassificationInterpretation` and then plotting it using `plot_confusion_matrix()`.
+
+```python
+interep = ClassificationInterpretation.from_learner(learn)
+interep.plot_confusion_matrix()
+```
+
 ## Some Useful Relevant Metrics
 
 Precision, Recall and F1-Score are some of the important metrics that can be determined through the confusion matrix values from above. Here is a brief explanation of what each metrics describe about the model:
