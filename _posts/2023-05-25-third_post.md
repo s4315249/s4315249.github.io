@@ -49,5 +49,8 @@ Above is a simple barebone implementation of t-SNE using scikit-learn library. `
 
 Then, a pandas DataFrame `tsne_data_frame` is initialised to store the embedding coordinates `tsne_1` and `tsne_2`. Finally, the resulting t-SNE embedding can be visualised via `scatterplot()`.
 
+See belew result:
+<img src="/images/tsne_embedding.jpg" alt="tsne results" style="width: 400px;">
+
 ## Resources
 1. Wattenberg, et al., 2016, How to Use t-SNE Effectively, http://doi.org/10.23915/distill.00002
